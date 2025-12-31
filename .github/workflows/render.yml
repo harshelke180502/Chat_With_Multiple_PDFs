@@ -12,3 +12,4 @@ services:
     envVars:
       - key: OLLAMA_MODELS
         value: gemma3:1b
+        
